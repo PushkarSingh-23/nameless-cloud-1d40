@@ -1,0 +1,15 @@
+name = "nameless-cloud-1d40"
+main = "src/src/index.js"
+compatibility_date = "2023-08-23"
+workers_dev = true
+preview_urls = false
+
+[[d1_databases]]
+binding = "d1_databases"
+database_id = "bfed75f8-c497-45ef-b564-7adbc5e35170"
+database_name = "unipileclients"
+
+[[d1_databases]]
+binding = "DATABASE"
+database_id = "bfed75f8-c497-45ef-b564-7adbc5e35170"
+database_name = "unipileclients"
